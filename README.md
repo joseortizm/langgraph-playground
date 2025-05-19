@@ -1,6 +1,6 @@
 # langgraph-playground
 
-(LangGraph.js)[https://langchain-ai.github.io/langgraphjs/]
+[LangGraph.js](https://langchain-ai.github.io/langgraphjs/)
 
 ## Setup
 
