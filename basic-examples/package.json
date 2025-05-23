@@ -1,7 +1,7 @@
 {
   "name": "basic-examples",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/core": "^0.3.56",
-    "@langchain/langgraph": "^0.2.72"
+    "@langchain/google-genai": "^0.2.9",
+    "@langchain/langgraph": "^0.2.72",
+    "dotenv": "^16.5.0"
   }
 }
