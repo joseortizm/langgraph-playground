@@ -137,3 +137,5 @@ dist
 
 # ignorar carpeta olds
 olds/
+# MacOS
+.DS_Store
